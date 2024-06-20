@@ -1,0 +1,21 @@
+body{
+    background-image: url(image\ 4.jepg.webp);
+    background-color: aquamarine;
+    font-family: fantasy;
+    font-style: italic;
+    background-position: center;
+}
+.hi{
+    background-color: darkgreen;
+    font-family: cursive;
+    font-size: 55px;
+    text-align: right;
+    background-image: url(image2.jpg);
+}
+.bye{
+    background-color: brown;
+    font-family: monospace;
+    font-size: 55px;
+    text-align: left;
+    
+}

@@ -1,0 +1,17 @@
+body{
+    background-image:url(image11.jpeg);
+    background-size: cover;
+    align-items: center;
+    
+}
+.container{
+    height: 30vh;
+    width: 50vh;
+    background-color: blue;
+    border-color: black;
+    margin-left: 250px;
+    margin-top: 200px;
+    text-align: center;
+    justify-content: right;
+
+}

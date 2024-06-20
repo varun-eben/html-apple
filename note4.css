@@ -1,0 +1,47 @@
+.team1{
+    height: 80vh;
+    width: 50vh;
+    background-image: url(image9.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid black;
+    margin-left: 50px;
+    margin-top:100px;
+    
+}
+.team2{
+    padding:15vh ;
+    text-align: center;
+    font-family: fantasy;
+    
+}
+.team3{ height: 80vh;
+    width: 50vh;
+    background-image: url(image.10jpeg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid black;
+    margin-left: 590px;
+    margin-top:-583px;
+    color: darkgoldenrod;
+    }
+.team4{padding:15vh ;
+    text-align: center;
+    font-family: fantasy;
+
+}
+.team5{height: 80vh;
+    width: 50vh;
+    background-image: url(image11.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid black;
+    margin-left: 1151px;
+    margin-top:-591px;
+
+}
+.team6{padding:15vh ;
+    text-align: center;
+    font-family: fantasy
+
+}

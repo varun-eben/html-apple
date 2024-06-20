@@ -1,0 +1,596 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+.img{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background: black ;
+    color: white;
+    margin-bottom: 100px;
+    padding: 200px;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+
+    }
+.video-bg{
+    top: 0px;
+    left: 0px;
+    min-width: 100px;
+    min-height: 100px;
+    background-size: cover;
+}
+html{
+    overflow-x: hidden;
+    scroll-snap-type: y mandatory;
+}
+.nav a{
+    display: inline-block;
+    font-size: 15px;
+    color: white;
+}
+.nav{
+    margin-top: -178px;
+    margin-left: -519px;
+}
+.apple{
+    margin-top: -1035px;
+    margin-left: 429px;
+    font-size: 30px;
+    color:white;
+    
+}
+.app{
+    margin-top: 679px;
+    margin-left: 500px;
+    color: white;
+    font-size: 32px;
+}
+.id{
+    margin-top: -16px;
+    margin-left: 550px;
+    color:white;
+    font-size: 32px;
+}
+.web{
+    margin-top: 0px;
+    margin-left: 656px;
+    color:blue;
+    font-size: 22px;
+}
+.btn{
+    margin-top: 0px;
+    margin-left: 711px;
+    color:white;
+    background-color: blue;
+    border-radius: 170px;
+}
+.ph{
+    margin-top: 0px;
+    margin-left: 711px;
+    height:10vh;
+    width: 8vh;
+}
+.nec{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background: black;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    padding: 200px;
+    overflow: hidden; 
+    
+}
+.viedo-pro{
+    top: 0px;
+    left: 0px;
+    min-width: 100px;
+    min-height: 100px
+}
+.ip{
+    margin-top: -659px;
+    margin-left: 665px;
+    color:rgb(235, 223, 193);
+    font-size: 30px;
+}
+.btn2{
+    margin-top: 319px;
+    margin-left: 710px;
+    color:white;
+    background-color: blue;
+    border-radius: 170px;
+    width: 96px;
+    height: 43px;
+    padding: 9px;
+    padding-left: 35px;
+    justify-content: center;
+    align-items: center;
+
+}
+.rup{
+    margin-top: 42px;
+    margin-left: 647px;
+    color:white;
+    font-size: 30px;
+}
+.img2{
+    background-image: url(image/iphone-16-camera-rumors.webp);
+    margin-top: 110px;
+    margin-left: 0px;
+    background-color: rgb(14, 8, 8);
+    height: 700px;
+    width: 1500px;
+    background-size: 1600px;
+    background-repeat: no-repeat;
+
+}
+.ip15{
+    margin-top: 110px;
+    margin-left: 647px;
+    color:black;
+    font-size: 48px;
+
+}
+.img3{
+    margin-top: -628px;
+    margin-left: 480px;
+    color:black;
+    font-size: 35px;
+}
+.btn3{
+    margin-top: 1px;
+    margin-left: 617px;
+    color:white;
+    background-color: blue;
+    border-radius: 170px;
+    width: 131px;
+    height: 48px;
+    padding: 9px;
+    padding-left:27px;
+    justify-content: center;
+    align-items: center;
+}
+.btn4{
+    margin-top: -46px;
+    margin-left: 780px;
+    color:blue;
+    background-color:white;
+    border-radius: 170px;
+    width: 87px;
+    height: 45px;
+    padding: 9px;
+    padding-left:29px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+}
+.img4{
+    background-image: url(image/image\ ipad.webp);
+    margin-top: 529px;
+    margin-left: -13px;
+    background-color: rgb(14, 8, 8);
+    height:800px;
+    width: 800px;
+    background-size: 800px;
+    background-repeat: no-repeat;
+}
+.col1{
+    
+    margin-top: 525px;
+    margin-left:26px ;
+    background-color: black;
+    height: 568px;
+    width: 712px;
+    background-size: 800px;
+    background-repeat: no-repeat;
+    
+    
+}
+.img5{
+    background-image: url(image/image\ ipad.webp);
+    margin-top: 158px;
+    margin-left: 15px;
+    height: 524px;
+    width: 712px;
+    background-size: 645px;
+    background-repeat: no-repeat;
+}
+.ip1{
+    margin-top: -562px;
+    margin-left: 287px;
+    color:white;
+    font-size: 45px;
+}
+.ip2{color: white;
+    margin-top: -496px;
+    margin-left: 152px;
+    font-size: 28px;
+
+}
+.btn5{
+    margin-top: -455px;
+    margin-left: 266px;
+    color:white;
+    background-color: blue;
+    border-radius: 170px;
+    width: 108px;
+    height: 44px;
+    padding: 9px;
+    padding-left:19px;
+    justify-content: center;
+    align-items: center;
+}
+.btn6{
+    margin-top: -455px;
+    margin-left: 14px;
+    color:blue;
+    background-color:white;
+    border-radius: 170px;
+    width: 84px;
+    height: 43px;
+    padding: 9px;
+    padding-left:27px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+}
+.col2{
+    margin-top: -565px;
+    margin-left:781px ;
+    background-color: rgb(183, 220, 243);
+    height: 568px;
+    width: 712px;
+    background-size: 800px;
+    background-repeat: no-repeat;
+    
+}
+.img6{
+    background-image: url(image/ipad_air_11_m2_blue_p.png);
+    margin-top: -544px;
+    margin-left: 825px;
+    height: 536px;
+    width: 712px;
+    background-size: 645px;
+    background-repeat: no-repeat;
+}
+.ip3{
+    margin-top: -574px;
+    margin-left: 1042px;
+    color:black;
+    font-size: 45px;
+}
+.ip4{
+    margin-top: -574px;
+    margin-left: 1146px;
+    color:rgb(22, 174, 230);
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.ip5{
+    margin-top: -519px;
+    margin-left: 961px;
+    color:black;
+    font-size: 25px;
+}
+.btn7{
+    margin-top: -483px;
+    margin-left: 1035px;
+    color:white;
+    background-color: black;
+    border-radius: 170px;
+    width: 108px;
+    height: 44px;
+    padding: 9px;
+    padding-left:19px;
+    justify-content: center;
+    align-items: center;
+}
+.btn8{
+    margin-top: -483px;
+    margin-left: 1155px;
+    color:black;
+    background-color:white;
+    border-radius: 170px;
+    width: 84px;
+    height: 43px;
+    padding: 9px;
+    padding-left:27px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+}
+
+
+.img7{
+    background-image: url(image/Apple-MacBook-Air-2-up-hero-240304-lp.jpg.news_app_ed.jpg);
+    margin-top: 32px;
+    margin-left: 14px;
+    height: 536px;
+    width: 709px;
+    background-size: 709px;
+    background-repeat: no-repeat;
+}
+.ip6{
+    margin-top: -532px;
+    margin-left: 211px;
+    color:black;
+    font-size: 45px;
+}
+.ip7{
+    margin-top: -27px;
+    margin-left: 232px;
+    color:black;
+    font-size: 25px;
+}
+.btn9{
+    margin-top: -12px;
+    margin-left:235px;
+    color:white;
+    background-color: blue;
+    border-radius: 170px;
+    width: 106px;
+    height: 44px;
+    padding: 9px;
+    padding-left:17px;
+    justify-content: center;
+    align-items: center;
+}
+.btn10{
+    margin-top: -42px;
+    margin-left: 354px;
+    color:blue;
+    background-color:white;
+    border-radius: 170px;
+    width: 84px;
+    height: 43px;
+    padding: 9px;
+    padding-left:27px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+}
+.img8{
+    background-image: url(image/watch\ ultra2.jpg);
+    margin-top: -157px;
+    margin-left: 770px;
+    height: 536px;
+    width: 709px;
+    background-size: 709px;
+    background-repeat: no-repeat;
+}
+.ip8{
+    margin-top: -522px;
+    margin-left: 1058px;
+    color:black;
+    font-size: 45px;
+}
+.ip9{
+    margin-top: -26px;
+    margin-left: 35px;
+    color:orange;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.ip10{
+    margin-top: -20px;
+    margin-left: -18px;
+    color:black;
+    font-size: 22px;
+}
+.btn11{
+    margin-top: -14px;
+    margin-left:-39px;
+    color:white;
+    background-color: blue;
+    border-radius: 170px;
+    width: 106px;
+    height: 44px;
+    padding: 8px;
+    padding-left:17px;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+.btn12{
+    margin-top: -42px;
+    margin-left: 82px;
+    color:blue;
+    background-color:white;
+    border-radius: 170px;
+    width: 84px;
+    height: 43px;
+    padding: 9px;
+    padding-left:27px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    font-size: 16px;
+}
+.img9{
+    background-image: url(image/apple-trade-in-iphone-15-d.jpg);
+    margin-top: 397px;
+    margin-left: -1039px;
+    height: 536px;
+    width: 709px;
+    background-size: 709px;
+    background-repeat: no-repeat;
+}
+.ip11{
+    margin-top: -547px;
+    margin-left: -786px;
+    color:black;
+    font-size: 45px;
+}
+.ip12{
+    margin-top: -30px;
+    margin-left: -838px;
+    color:black;
+    font-size: 22px;
+}
+.btn13{
+    margin-top: -12px;
+    margin-left:-785px;
+    color:white;
+    background-color: blue;
+    border-radius: 162px;
+    width: 160px;
+    height: 38px;
+    padding: 6px;
+    padding-left:17px;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.col4{
+    background-color: black;
+    margin-top: 6px;
+    margin-left: -290px;
+    height: 536px;
+    width: 709px;
+    background-size: 709px;
+    background-repeat: no-repeat;
+}
+.img10{
+    background-image:url(image/Apple-iPhone-15-Pro-lineup-hero-230912.jpg.news_app_ed.jpg);
+    margin-top: -127px;
+    margin-left: 94px;
+    height: 539px;
+    width: 709px;
+    background-size: 536px;
+    background-repeat: no-repeat;
+}
+.ip13{
+    margin-top: -530px;
+    margin-left: -82px;
+    color:white;
+    font-size: 40px;
+}
+.ip14{
+    margin-top: -21px;
+    margin-left: -96px;
+    color:white;
+    font-size: 19px;
+}
+.btn14{
+    margin-top: -11px;
+    margin-left: -66px;
+    color:white;
+    background-color:blue;
+    border-radius: 170px;
+    width: 103px;
+    height: 34px;
+    padding: 0px;
+    padding-left:15px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    font-size: 16px;
+}
+.btn15{
+    margin-top: -33px;
+    margin-left: 52px;
+    color:blue;
+    background-color:black;
+    border-radius: 170px;
+    width: 70px;
+    height: 33px;
+    padding: 0px;
+    padding-left:18px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+    font-size: 18px;
+}
+.img11{
+    background-image: url(image/apple-tv-presumed-innocent\ 3333\ \(1\).jpg);
+    margin-top: 433px;
+    margin-left: -1036px;
+    height: 715px;
+    width: 1908px;
+    background-size: 1455px;
+    background-repeat: no-repeat;
+}
+.btn16{
+    margin-top: -113px;
+    margin-left:-936px;
+    color:black;
+    background-color:white;
+    border-radius: 170px;
+    width: 119px;
+    height: 41px;
+    padding: 5px;
+    padding-left:12px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    font-size: 18px;
+    display:flex;
+}
+.img12{
+    background-image: url(image/apple\ logo.jpg);
+    margin-top: -4839px;
+    margin-left: -578px;
+    height: 100px;
+    width: 100px;
+    background-size: 35px;
+    background-repeat: no-repeat;
+}
+.para{
+  margin-top: -539px;
+    margin-left: 26px;
+    font-size: 12px;
+    color: black;
+}
+.para1{
+    margin-top: -421px;
+    margin-left: 26px;
+    font-size: 12px;
+    color: black;
+}
+
+.back{
+    background-color: #eeebe89c;
+    margin-top: 1847px;
+    margin-left: 34px;
+    height: 562px;
+    width: 1454px;
+    background-size: 1500px;
+}
+.list1{
+    margin-top: -344px;
+    margin-left: 35px;
+    font-size: 12px;
+    color: black;
+}
+.list2{
+    margin-top: -344px;
+    margin-left: 162px;
+    font-size: 12px;
+    color: black;
+}
+.list3{
+    margin-top: -344px;
+    margin-left: 314px;
+    font-size: 12px;
+    color: black;
+}
+.list4{
+    margin-top: -344px;
+    margin-left: 449px;
+    font-size: 12px;
+    color: black;
+    display: flex;
+}
+
+
+

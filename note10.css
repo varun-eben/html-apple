@@ -1,0 +1,35 @@
+body{
+    background-image: url(image25.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 70px;
+    color: goldenrod;
+    margin-left: -390px;
+    margin-top: 25px;
+
+}
+.container{
+    background-image: url(image41.jpeg);
+    background-position: center;
+    border: solid black;
+    margin-left: 1050px;
+    margin-top: -138px;
+    height: 40vh;
+    width: 45vh;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25pt;
+    color: gold;
+}
+.inputdata{
+    margin:10px ;
+}
+.btn{
+    margin: 10px;
+    padding: 7px;
+}

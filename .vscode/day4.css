@@ -1,0 +1,35 @@
+.hi{
+    height: 40vh;
+    width: 40vh;
+    background-color: aquamarine;
+    border: 5px solid black;
+    margin-left: 50px;
+    margin-top:100px;
+    
+}
+.byee{
+    padding:15vh ;
+}
+.thankyou{
+    height: 40vh;
+    width: 40vh;
+    background-color:red;
+    border: 5px solid black;
+   margin-top: -300px;
+    margin-left: 600pX;
+    
+}
+.welcome{
+    padding:15vh ;
+}
+.howareyou{ height: 40vh;
+    width: 40vh;
+    background-color:gray;
+    border: 5px solid black;
+    margin-left: 1200px;
+    margin-top: -300px ;
+    
+}
+.fine{
+    padding: 15vh;
+}

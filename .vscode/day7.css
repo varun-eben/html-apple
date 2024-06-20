@@ -1,0 +1,32 @@
+body{
+    
+    background-image:url(image14.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: center;
+}
+
+p{font-size: 65px;
+width:50vh ;
+color: black;
+margin-left: 250px;
+margin-top: 200px;
+}
+.container{
+    height: 39vh;
+    width: 37vh;
+    background-color: chartreuse;
+    margin-left:950px;
+    margin-top: -28b0PX;
+    text-align: center;
+    border: 5px solid black;
+    justify-content: right;
+}
+.inputdata{
+    margin: 10px;
+}
+.btn{
+    margin: 10px;
+    padding: 6px;
+}
